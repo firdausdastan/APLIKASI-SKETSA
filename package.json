@@ -1,7 +1,7 @@
 {
-  "name": "kanvas-sketsa",
+  "name": "github-repository-manager",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,7 +14,8 @@
     "lucide-react": "0.263.1",
     "sonner": "1.0.3",
     "clsx": "2.0.0",
-    "tailwind-merge": "1.14.0"
+    "tailwind-merge": "1.14.0",
+    "@supabase/supabase-js": "^2.39.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
